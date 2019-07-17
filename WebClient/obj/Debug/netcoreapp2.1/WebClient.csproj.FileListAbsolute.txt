@@ -29,6 +29,6 @@ F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebClient\obj\Debug\netcoreapp2.1\WebCl
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebClient\obj\Debug\netcoreapp2.1\WebClient.dll
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebClient\obj\Debug\netcoreapp2.1\WebClient.pdb
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebClient\obj\Debug\netcoreapp2.1\WebClient.csproj.CopyComplete
-F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebClient\obj\Debug\netcoreapp2.1\WebClient.csprojAssemblyReference.cache
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LayoutUser.g.cshtml.cs
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LayoutAdmin.g.cshtml.cs
+F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebClient\obj\Debug\netcoreapp2.1\WebClient.csprojAssemblyReference.cache

@@ -13,6 +13,8 @@ namespace WebApi.model
         public string username { get; set; }
         public int gender { get; set; }
         public string addr { get; set; }
+        public string email { get; set; }
+        public string password { get; set; }
 
     }
 }

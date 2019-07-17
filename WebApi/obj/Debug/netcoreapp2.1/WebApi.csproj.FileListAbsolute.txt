@@ -2,7 +2,6 @@ F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\bin\Debug\netcoreapp2.1\WebApi.d
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
-F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\obj\Debug\netcoreapp2.1\WebApi.R
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
 F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+F:\ASP.NET\Asp.NetCore2UsingResponsitory\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache

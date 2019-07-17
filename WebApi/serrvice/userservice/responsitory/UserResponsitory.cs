@@ -21,5 +21,11 @@ namespace WebApi.serrvice.userservice.responsitory
         {
             return context.Users.ToList();
         }
+
+        public Users getUserByEmail(string email)
+        {
+            return context.Users.Where(m => m.email == email).FirstOrDefault();
+
+        }
     }
 }

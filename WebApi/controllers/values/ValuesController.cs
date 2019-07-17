@@ -14,6 +14,7 @@ namespace WebApi.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+            string requestedWith = HttpContext.Request.Headers["fasfasdfsdf"];
             return new string[] { "value1", "value2" };
         }
 
